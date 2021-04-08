@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="286.27856"
-   height="47.015858"
-   viewBox="0 0 286.27856 47.01586"
+   width="327.11621"
+   height="44.503666"
+   viewBox="0 0 327.1162 44.503669"
    sodipodi:docname="aflogo.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/gsalinas/Hugo/academiafaraday/static/images/site-navigation/logo.png"
@@ -88,22 +88,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3252398"
-     inkscape:cx="226.26496"
-     inkscape:cy="-56.676149"
-     inkscape:window-x="960"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="99.640214"
+     inkscape:cy="16.875758"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot910"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0.08065216,0,0,0.08065216,-64.187994,22.172526)"><flowRegion
+     transform="matrix(0.08065216,0,0,0.08065216,-21.176914,15.329639)"><flowRegion
        id="flowRegion912"><rect
          id="rect914"
          width="1912.3109"
@@ -113,17 +113,17 @@
        id="flowPara916" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:31.91774368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79794353"
-     x="184.92213"
-     y="29.365593"
+     x="227.93321"
+     y="22.522709"
      id="text819"><tspan
        sodipodi:role="line"
        id="tspan817"
-       x="184.92213"
-       y="58.115643"
+       x="227.93321"
+       y="51.272758"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.8336544px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold';stroke-width:0.79794353" /></text>
   <g
      id="g925"
-     transform="matrix(0.09182785,0,0,0.09182785,109.85778,33.070031)">
+     transform="matrix(0.07916062,0,0,0.07916062,139.33609,28.508172)">
     <circle
        cx="529.83392"
        cy="-104.13074"
@@ -163,13 +163,14 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:31.91774368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79794353"
-     x="-0.22283559"
-     y="33.115322"
+     style="font-style:normal;font-weight:normal;font-size:40.83548355px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02088702"
+     x="-0.28509527"
+     y="34.647514"
      id="text819-3"><tspan
        sodipodi:role="line"
        id="tspan817-6"
-       x="-0.22283559"
-       y="33.115322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8336544px;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:0.79794353">Academia       Faraday</tspan></text>
+       x="-0.28509527"
+       y="34.647514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.72789764px;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:-1.5px;stroke-width:1.02088702"
+       dx="0">Academia      Faraday </tspan></text>
 </svg>
