@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,84 +93,87 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.56"
-     inkscape:cx="165.46191"
+     inkscape:cx="98.079097"
      inkscape:cy="23.635061"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot910"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0.08065216,0,0,0.08065216,-27.050912,12.567502)"><flowRegion
-       id="flowRegion912"><rect
-         id="rect914"
-         width="1912.3109"
-         height="64.028267"
-         x="597.59717"
-         y="-61.445229" /></flowRegion><flowPara
-       id="flowPara916" /></flowRoot>  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:31.91774368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79794353"
-     x="222.05922"
-     y="19.760572"
-     id="text819"><tspan
-       sodipodi:role="line"
-       id="tspan817"
-       x="222.05922"
-       y="48.51062"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.8336544px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold';stroke-width:0.79794353" /></text>
   <g
-     id="g925"
-     transform="matrix(0.0743053,0,0,0.0743053,135.55377,26.759622)">
-    <circle
-       cx="529.83392"
-       cy="-104.13074"
-       r="256"
-       id="circle12"
-       style="fill:#5c77ff;fill-opacity:0.54509804" />
+     id="g47">
+    <flowRoot
+       transform="matrix(0.08065216,0,0,0.08065216,-27.050912,12.567502)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot910"
+       xml:space="preserve"><flowRegion
+         id="flowRegion912"><rect
+           y="-61.445229"
+           x="597.59717"
+           height="64.028267"
+           width="1912.3109"
+           id="rect914" /></flowRegion><flowPara
+         id="flowPara916" /></flowRoot>    <text
+       id="text819"
+       y="19.760572"
+       x="222.05922"
+       style="font-style:normal;font-weight:normal;font-size:31.91774368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79794353"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.8336544px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold';stroke-width:0.79794353"
+         y="48.51062"
+         x="222.05922"
+         id="tspan817"
+         sodipodi:role="line" /></text>
     <g
-       transform="translate(273.83392,-360.13074)"
-       id="g24">
-      <path
-         d="M 172.976,77 C 119.97,77 77,157.141 77,256 c 0,98.859 42.97,179 95.976,179 35.444,0 66.402,-35.839 83.024,-89.143 V 166.143 C 239.378,112.839 208.421,77 172.976,77 Z"
-         id="path14"
-         inkscape:connector-curvature="0"
-         style="fill:#e5f7ff" />
-      <path
-         d="M 339.024,77 C 303.579,77 272.622,112.839 256,166.143 V 345.858 C 272.622,399.161 303.579,435 339.024,435 392.03,435 435,354.859 435,256 435,157.141 392.03,77 339.024,77 Z"
-         id="path16"
-         inkscape:connector-curvature="0"
-         style="fill:#bfebff" />
-      <path
-         d="m 314.575,114.564 c -23.59,0 -44.663,20.083 -58.575,51.578 v 179.715 c 13.911,31.496 34.985,51.579 58.575,51.579 41.891,0 75.85,-63.323 75.85,-141.436 0,-78.113 -33.96,-141.436 -75.85,-141.436 z"
-         id="path18"
-         inkscape:connector-curvature="0"
-         style="fill:#85d9ff" />
-      <path
-         d="m 197.425,114.564 c -41.891,0 -75.85,63.323 -75.85,141.436 0,78.113 33.959,141.436 75.85,141.436 23.59,0 44.663,-20.083 58.575,-51.579 V 166.143 c -13.912,-31.496 -34.985,-51.579 -58.575,-51.579 z"
-         id="path20"
-         inkscape:connector-curvature="0"
-         style="fill:#bfebff" />
+       transform="matrix(0.0743053,0,0,0.0743053,135.55377,26.759622)"
+       id="g925">
       <circle
-         cx="256"
-         cy="256"
-         r="89.849998"
-         id="circle22"
-         style="fill:url(#SVGID_2_)" />
+         style="fill:#5c77ff;fill-opacity:0.54509804"
+         id="circle12"
+         r="256"
+         cy="-104.13074"
+         cx="529.83392" />
+      <g
+         id="g24"
+         transform="translate(273.83392,-360.13074)">
+        <path
+           style="fill:#e5f7ff"
+           inkscape:connector-curvature="0"
+           id="path14"
+           d="M 172.976,77 C 119.97,77 77,157.141 77,256 c 0,98.859 42.97,179 95.976,179 35.444,0 66.402,-35.839 83.024,-89.143 V 166.143 C 239.378,112.839 208.421,77 172.976,77 Z" />
+        <path
+           style="fill:#bfebff"
+           inkscape:connector-curvature="0"
+           id="path16"
+           d="M 339.024,77 C 303.579,77 272.622,112.839 256,166.143 V 345.858 C 272.622,399.161 303.579,435 339.024,435 392.03,435 435,354.859 435,256 435,157.141 392.03,77 339.024,77 Z" />
+        <path
+           style="fill:#85d9ff"
+           inkscape:connector-curvature="0"
+           id="path18"
+           d="m 314.575,114.564 c -23.59,0 -44.663,20.083 -58.575,51.578 v 179.715 c 13.911,31.496 34.985,51.579 58.575,51.579 41.891,0 75.85,-63.323 75.85,-141.436 0,-78.113 -33.96,-141.436 -75.85,-141.436 z" />
+        <path
+           style="fill:#bfebff"
+           inkscape:connector-curvature="0"
+           id="path20"
+           d="m 197.425,114.564 c -41.891,0 -75.85,63.323 -75.85,141.436 0,78.113 33.959,141.436 75.85,141.436 23.59,0 44.663,-20.083 58.575,-51.579 V 166.143 c -13.912,-31.496 -34.985,-51.579 -58.575,-51.579 z" />
+        <circle
+           style="fill:url(#SVGID_2_)"
+           id="circle22"
+           r="89.849998"
+           cy="256"
+           cx="256" />
+      </g>
     </g>
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.83548355px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02088702"
-     x="-0.15909335"
-     y="31.885378"
-     id="text819-3"><tspan
-       sodipodi:role="line"
-       id="tspan817-6"
-       x="-0.15909335"
+    <text
+       id="text819-3"
        y="31.885378"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.72789764px;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:-1.5px;stroke-width:1.02088702"
-       dx="0">Academia      Faraday </tspan></text>
+       x="-0.15909335"
+       style="font-style:normal;font-weight:normal;font-size:40.83548355px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02088702"
+       xml:space="preserve"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.72789764px;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:-1.5px;stroke-width:1.02088702"
+         y="31.885378"
+         x="-0.15909335"
+         id="tspan817-6"
+         sodipodi:role="line">Academia      Faraday </tspan></text>
+  </g>
 </svg>
