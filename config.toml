@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://academiafaraday.netlify.app/"
+baseURL = "https://academiafaraday.com.br/"
 languageCode = "en-us"
 # site title 
 title = "Academia Faraday"
