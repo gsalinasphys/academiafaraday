@@ -6,7 +6,7 @@ title = "Academia Faraday"
 # theme
 theme = "northendlab-hugo"
 # post pagination
-paginate = "5"
+paginate = "2"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -41,30 +41,30 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 1
 
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.main]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 # footer menu
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 1
 
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
+home = "Início"
 # logo
 logo = "images/aflogo.svg"
 # meta data
@@ -75,7 +75,7 @@ google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved,"
 
 # preloader
 [params.preloader]
@@ -94,7 +94,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Treinamento para a Olimpíada Brasileira de Física"
 image = "images/banner/illustration.svg"
 
 
@@ -102,24 +102,24 @@ image = "images/banner/illustration.svg"
 [params.cta]
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+title = "Inscreva-se"
+description = "Estamos convocando alunos e alunas dos oitavo e nono anos do ensino fundamental"
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Clique aqui"
 link = "https://gethugothemes.com/shop/"
 
 
 ############################## Social Site ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+# link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+# link = "#"
+# [[params.social]]
+# icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+# link = "#"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+# link = "#"

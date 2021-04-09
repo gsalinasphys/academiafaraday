@@ -1,7 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600.136" height="456.287" viewBox="0 0 1600.136 456.287">
-  <g id="Group_1647" data-name="Group 1647" transform="translate(1905.136 -962)">
-    <rect id="Rectangle_582" data-name="Rectangle 582" width="1600" height="456" transform="translate(-1905 962)" fill="#f8f8f8"/>
-    <path id="Path_29803" data-name="Path 29803" d="M283.427,815.4a143.6,143.6,0,0,0,24.9-22.014c70.712-79.335,129.35-74.161,187.989-31.044s213.859,20.7,181.09-155.22S792.962,496.742,832.63,436.379c18.971-28.974,21.731-55.19,16.9-77.265H283.069S283.219,815.2,283.427,815.4Z" transform="translate(-2188.205 602.887)" fill="#f2f2f2"/>
-    <path id="Path_29802" data-name="Path 29802" d="M909.347,361.977c-42.468-5.167-138.882-9.689-198.949,46.828-78.432,74.279-143.473,69.435-208.514,29.066S264.675,418.493,301.021,583.2,172.852,686.543,128.854,743.059c-21.043,27.128-24.1,51.672-18.747,72.341H909.347Z" transform="translate(-1214.843 602.886)" fill="#f2f2f2"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600.136"
+   height="456.287"
+   viewBox="0 0 1600.136 456.287"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="banner-bg.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="960"
+     inkscape:window-height="1017"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.1385037"
+     inkscape:cx="231.9223"
+     inkscape:cy="324.91173"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <rect
+     style="fill:#ea515c;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect823"
+     width="699.85583"
+     height="607.883"
+     x="-93.40992"
+     y="-66.808556"
+     rx="32.000702"
+     ry="32.000702" />
+  <path
+     style="fill:#f8f8f8;fill-opacity:1;stroke-width:1.98157406"
+     inkscape:connector-curvature="0"
+     d="m 1583.2995,-436.47988 c -84.4831,-10.19883 -279.8567,-17.70627 -399.3504,93.8493 -156.0276,146.61492 -280.16525,92.41979 -414.80479,57.37166 C 663.55702,-312.74448 235.83124,-313.50779 308.1357,11.597594 380.44019,336.70302 118.16185,204.16172 30.634969,315.71533 -11.226678,369.26168 -17.308088,417.70763 -6.6591478,458.50495 H 1583.2995 Z"
+     data-name="Path 29802"
+     id="Path_29802-1-7"
+     sodipodi:nodetypes="ccsscccc" />
+  <rect
+     style="fill:#000000;fill-opacity:0"
+     y="0"
+     x="0.13600001"
+     height="456"
+     width="1600"
+     data-name="Rectangle 582"
+     id="Rectangle_582" />
+  <path
+     style="fill:#eaeaea;fill-opacity:1;stroke-width:1.36895573"
+     inkscape:connector-curvature="0"
+     d="m 1705.4743,-126.21883 c -58.1368,-7.07339 -192.5824,-12.28016 -274.8114,65.089116 -107.37,101.684674 -192.7948,64.0976782 -285.4465,39.79007 -72.6595,-19.0626 -322.26963,-27.511275 -272.51357,197.965334 49.75607,225.47661 -175.45769,141.47199 -235.68901,218.83991 -28.80694,37.13703 -32.99184,70.73668 -25.66381,99.03163 H 1705.4743 Z"
+     data-name="Path 29802"
+     id="Path_29802-1"
+     sodipodi:nodetypes="ccsscccc" />
+  <path
+     style="fill:#9c9c9c;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="m 1727.64,58.863 c -42.468,-5.167 -140.6783,-8.970462 -200.7453,47.54654 -78.432,74.279 -140.8335,46.82231 -208.514,29.066 C 1265.3041,121.55062 1082.968,115.379 1119.314,280.086 1155.66,444.793 991.145,383.429 947.147,439.945 c -21.043,27.128 -24.1,51.672 -18.747,72.341 h 799.24 z"
+     data-name="Path 29802"
+     id="Path_29802"
+     sodipodi:nodetypes="ccsscccc" />
 </svg>
