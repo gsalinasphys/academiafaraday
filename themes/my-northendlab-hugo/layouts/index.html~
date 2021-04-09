@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
-        <p style="border:0px; border-style:solid; border-color:#000000; background-color:#A3B7FEFF; padding: 1em; border-radius: 25px; box-shadow: 5px 10px #4B6C8E; color: black;" align = "center"><font size = "5.5">{{.Site.Params.banner.title | markdownify}}</font><br><b style = "font-size:36px;">{{.Site.Params.banner.topic | markdownify}}</b></p>
+        <p style="border:0px; border-style:solid; border-color:#000000; background-color:#A3B7FEFF; padding: 1em; font-size:40px; border-radius: 25px; box-shadow: 5px 10px #4B6C8E; color: black;" align = "center">{{.Site.Params.banner.title | markdownify}}<br><b>{{.Site.Params.banner.topic | markdownify}}</b></p>
       </div>
       <div class="col-lg-6 illustration-mobile">
         <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid" alt="">
