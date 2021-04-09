@@ -9,10 +9,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="316.6"
-   height="38.448"
+   width="241.6127"
+   height="29.340584"
    version="1.1"
-   viewBox="0 0 316.6 38.448"
+   viewBox="0 0 241.6127 29.340583"
    id="svg31"
    sodipodi:docname="aflogo.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -29,13 +29,13 @@
      inkscape:window-height="1017"
      id="namedview33"
      showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="20.949306"
-     inkscape:cy="4.8839678"
+     inkscape:zoom="3.7517566"
+     inkscape:cx="68.015147"
+     inkscape:cy="19.463884"
      inkscape:window-x="960"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg31" />
+     inkscape:current-layer="text29" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,8 +52,8 @@
      id="defs9">
     <linearGradient
        id="SVGID_2_"
-       x1="166.15"
-       x2="345.85"
+       x1="166.14999"
+       x2="345.85001"
        y1="256"
        y2="256"
        gradientUnits="userSpaceOnUse">
@@ -68,46 +68,50 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(.074305 0 0 .074305 135.55 26.76)"
+     transform="matrix(0.05670472,0,0,0.05670472,103.44289,20.421071)"
      id="g25">
     <circle
-       cx="529.83"
+       cx="529.83002"
        cy="-104.13"
        r="256"
        id="circle11"
-       fill-opacity=".5451"
-       fill="#5c77ff" />
+       style="fill:#5c77ff;fill-opacity:0.54509995" />
     <g
-       transform="translate(273.83 -360.13)"
+       transform="translate(273.83,-360.13)"
        id="g23">
       <path
-         d="m172.98 77c-53.006 0-95.976 80.141-95.976 179s42.97 179 95.976 179c35.444 0 66.402-35.839 83.024-89.143v-179.71c-16.622-53.304-47.579-89.143-83.024-89.143z"
+         d="m 172.98,77 c -53.006,0 -95.976,80.141 -95.976,179 0,98.859 42.97,179 95.976,179 35.444,0 66.402,-35.839 83.024,-89.143 V 166.147 C 239.382,112.843 208.425,77.004 172.98,77.004 Z"
          id="path13"
-         fill="#e5f7ff" />
+         inkscape:connector-curvature="0"
+         style="fill:#e5f7ff" />
       <path
-         d="m339.02 77c-35.445 0-66.402 35.839-83.024 89.143v179.72c16.622 53.303 47.579 89.142 83.024 89.142 53.006 0 95.976-80.141 95.976-179s-42.97-179-95.976-179z"
+         d="m 339.02,77 c -35.445,0 -66.402,35.839 -83.024,89.143 v 179.72 c 16.622,53.303 47.579,89.142 83.024,89.142 53.006,0 95.976,-80.141 95.976,-179 0,-98.859 -42.97,-179 -95.976,-179 z"
          id="path15"
-         fill="#bfebff" />
+         inkscape:connector-curvature="0"
+         style="fill:#bfebff" />
       <path
-         d="m314.58 114.56c-23.59 0-44.663 20.083-58.575 51.578v179.72c13.911 31.496 34.985 51.579 58.575 51.579 41.891 0 75.85-63.323 75.85-141.44s-33.96-141.44-75.85-141.44z"
+         d="m 314.58,114.56 c -23.59,0 -44.663,20.083 -58.575,51.578 v 179.72 c 13.911,31.496 34.985,51.579 58.575,51.579 41.891,0 75.85,-63.323 75.85,-141.44 0,-78.117 -33.96,-141.44 -75.85,-141.44 z"
          id="path17"
-         fill="#85d9ff" />
+         inkscape:connector-curvature="0"
+         style="fill:#85d9ff" />
       <path
-         d="m197.42 114.56c-41.891 0-75.85 63.323-75.85 141.44s33.959 141.44 75.85 141.44c23.59 0 44.663-20.083 58.575-51.579v-179.71c-13.912-31.496-34.985-51.579-58.575-51.579z"
+         d="m 197.42,114.56 c -41.891,0 -75.85,63.323 -75.85,141.44 0,78.117 33.959,141.44 75.85,141.44 23.59,0 44.663,-20.083 58.575,-51.579 V 166.151 C 242.083,134.655 221.01,114.572 197.42,114.572 Z"
          id="path19"
-         fill="#bfebff" />
+         inkscape:connector-curvature="0"
+         style="fill:#bfebff" />
       <circle
          cx="256"
          cy="256"
-         r="89.85"
+         r="89.849998"
          id="circle21"
-         fill="url(#SVGID_2_)" />
+         style="fill:url(#SVGID_2_)" />
     </g>
   </g>
   <g
      aria-label="Academia      Faraday "
      style="font-size:40.83499908px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:1.02090001"
-     id="text29">
+     id="text29"
+     transform="matrix(0.76313454,0,0,0.76313454,-3.0703295e-7,-4.0974214e-4)">
     <path
        d="m 23.267462,31.885378 h -2.804028 q -0.477281,0 -0.775582,-0.238641 -0.278414,-0.23864 -0.437508,-0.596601 L 17.023032,24.765932 H 6.2444302 l -2.2074258,6.264317 q -0.1193203,0.338074 -0.4573946,0.596602 -0.3181875,0.258527 -0.775582,0.258527 H 4.0233135e-7 L 9.8041529,5.754229 H 13.483196 Z M 7.1592193,22.180659 H 16.108243 L 12.409313,11.660585 Q 12.210446,11.183303 12.011579,10.546928 11.812712,9.9105533 11.633731,9.1747447 11.434864,9.93044 11.235997,10.566815 11.037129,11.20319 10.858149,11.680471 Z"
        style="font-size:40.72800064px;font-family:Carlito;letter-spacing:-1.5px;stroke-width:1.02090001"
