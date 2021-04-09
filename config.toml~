@@ -4,7 +4,7 @@ languageCode = "en-us"
 # site title 
 title = "Academia Faraday"
 # theme
-theme = "my-northendlab-hugo"
+theme = "northendlab-hugo"
 # post pagination
 paginate = "2"
 # post excerpt
