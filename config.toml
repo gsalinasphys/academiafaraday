@@ -94,7 +94,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Treinamento para a Olimpíada Brasileira de Física"
+title = "Prepare-se para a Olimpíada Brasileira de Física"
 image = "images/banner/illustration.svg"
 
 
