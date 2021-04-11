@@ -18,7 +18,7 @@ p, .paragraph {
 }
 
 
-a {
+a, .author {
   color: $primary-color;
   &:hover{
     color: $primary-color;

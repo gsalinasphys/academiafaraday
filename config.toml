@@ -1,6 +1,6 @@
 ############################ Default configuration #########################
 baseURL = "https://academiafaraday.com.br/"
-languageCode = "en-us"
+languageCode = "pt-br"
 # site title 
 title = "Academia Faraday"
 # theme
@@ -8,7 +8,7 @@ theme = "my-northendlab-hugo"
 # post pagination
 paginate = "2"
 # post excerpt
-summaryLength = "10"
+summaryLength = "100"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
@@ -42,23 +42,23 @@ link = "plugins/search/search.js"
 [[menu.main]]
 URL = "contact"
 name = "Contato"
-weight = 1
-
-[[menu.main]]
-URL = "author/john-doe"
-name = "tools"
 weight = 2
+
+# [[menu.main]]
+# URL = "author/john-doe"
+# name = "Quem somos"
+# weight = 1
 
 # footer menu
-[[menu.footer]]
-URL = "contact"
-name = "Contato"
-weight = 1
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contato"
+# weight = 1
 
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 
 ######################### Default Parameters ###########################
@@ -67,6 +67,8 @@ weight = 2
 home = "Início"
 # logo
 logo = "images/aflogo.svg"
+# icon
+icon = "images/favicon.svg"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
