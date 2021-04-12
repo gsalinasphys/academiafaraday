@@ -1,10 +1,10 @@
 +++
-title = "My awesome second blog post"
-image = "/images/post/post-2.jpg"
-author = "John Doe"
-date = 2019-11-07T05:00:00Z
+title = "O que é a Academia Faraday"
+image = ""
+author = "Gustavo Salinas"
+date = 2021-04-11T05:00:00Z
 description = "This is meta description"
-categories = ["Design Tools"]
+categories = ["Geral"]
 type = "post"
 
 +++
