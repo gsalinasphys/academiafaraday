@@ -1,0 +1,188 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-lg-12">
+        <h2 class="mb-4">{{ .Title | markdownify }}</h2>
+        <div class="content">{{ .Content }}</div>
+        <form method="POST" action="{{ .Site.Params.inscrever_form_action | safeURL}}" class="row">
+          <div class="col-md-12">
+            <br><h4>Dados pessoais:</h4><br>
+          </div>
+          <div class="col-md-6">
+            <input type="text" class="form-control mb-4" placeholder="Nome Completo*" name="Nome Completo" id="Nome Completo" required>
+          </div>
+          <div class="col-md-6">
+            <input type="email" class="form-control mb-4" placeholder="Email*" name="Email" id="Email" required>
+          </div>
+          <div class="col-md-6">
+            <input type="text" class="form-control mb-4" placeholder="Cidade*" name="Cidade" id="Cidade" required>
+          </div>
+          <div class="col-md-6">
+            <input type="text" class="form-control mb-4" placeholder="Estado*" name="Estado" id="Estado" required>
+          </div>
+          <div class="col-md-8">
+            <input type="text" class="form-control mb-1" placeholder="Colégio*" name="Colégio" id="Colégio" required>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Público" name="Público ou Particular" value="Público" required>
+            <label for="Oitavo">Público</label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Particular" name="Público ou Particular" value="Particular" required>
+            <label for="Nono">Particular</label>
+          </div>
+          <div class="col-md-1">
+          </div>
+          <div class="col-md-12">
+          </div>
+          <div class="col-md-1">
+            <br>
+            <label><b>Ano*:</b> </label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Oitavo" name="Ano" value="Oitavo" required>
+            <label for="Oitavo"><b>Oitavo</b></label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Nono" name="Ano" value="Nono" required>
+            <label for="Nono"><b>Nono</b></label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Sétimo" name="Ano" value="Sétimo" required>
+            <label for="Sétimo">Sétimo</label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Primeiro EM" name="Ano" value="Primeiro EM" required>
+            <label for="Primeiro EM">1<sup>o</sup> EM</label>
+          </div>
+          <div class="col">
+            <br>
+            <input type="radio" id="Segundo ou Terceiro EM" name="Ano" value="Segundo ou Terceiro EM" required>
+            <label for="Segundo ou Terceiro EM">2<sup>o</sup> ou 3<sup>o</sup> EM</label>
+          </div>
+           <div class="col-md-4">
+          </div>
+          
+          <div class="col-md-12">
+            <br><br>
+            <h4>Acesso à internet:</h4><br>
+          </div>
+           <div class="col">
+            <label><b>No computador*:</b> </label>
+          </div>
+          <div class="col">
+            <input type="radio" id="A qualquer hora do dia" name="Acesso à internet (computador)" value="A qualquer hora do dia" required>
+            <label for="A qualquer hora do dia">Qualquer hora do dia</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="Algumas horas do dia" name="Acesso à internet (computador)" value="Algumas horas do dia" required>
+            <label for="Algumas horas do dia">Algumas horas do dia</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="Não tenho computador" name="Acesso à internet (computador)" value="Não tenho computador" required>
+            <label for="Não tenho computador">Não tenho computador</label>
+          </div>
+          <div class="col-md-12">
+          </div>
+           <div class="col">
+            <label><b>No celular ou tablet*:</b> </label>
+          </div>
+          <div class="col">
+            <input type="radio" id="A qualquer hora do dia" name="Acesso à internet (celular)" value="A qualquer hora do dia" required>
+            <label for="A qualquer hora do dia">Qualquer hora do dia</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="Algumas horas do dia" name="Acesso à internet (celular)" value="Algumas horas do dia" required>
+            <label for="Algumas horas do dia">Algumas horas do dia</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="Não tenho computador" name="Acesso à internet (celular)" value="Não tenho computador" required>
+            <label for="Não tenho computador">Não tenho celular ou tablet</label>
+          </div>
+          <div class="col-md-12">
+          </div>
+          
+          <div class="col-md-3">
+            <label><b>Wi-Fi*:</b> </label>
+          </div>
+          <div class="col-md-3">
+            <input type="radio" id="Tenho internet em casa" name="Acesso à internet (wifi)" value="Tenho internet em casa" required>
+            <label for="Tenho internet em casa">Tenho internet em casa</label>
+          </div>
+          <div class="col-md-3">
+            <input type="radio" id="Dependo de rede Wi-Fi aberta" name="Acesso à internet (wifi)" value="Dependo de rede Wi-Fi aberta" required>
+            <label for="Dependo de rede Wi-Fi aberta">Dependo de rede Wi-Fi aberta</label>
+          </div>
+
+          <div class="col-md-12">
+            <br><br>
+            <h4>Mais sobre você:</h4><br>
+            <h6>Por que você quer estudar Física? Por que participar de Olimpíadas de Física?</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Por que você quer estudar física?" id="Por que você quer estudar física?" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>O que você sabe sobre Olimpíadas de Física? Onde as conheceu?</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="O que você sabe sobre Olimpíadas de Física? Onde as conheceu?" id="O que você sabe sobre Olimpíadas de Física? Onde as conheceu?" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>Já participou de alguma Olimpíada de Física? Se sim, quais e quando?</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Já participou de alguma Olimpíada de Física? Se sim, quais e quando?" id="Já participou de alguma Olimpíada de Física? Se sim, quais e quando?" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>Está inscrito(a) em ou classificado(a) para alguma Olimpíada de Física?</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Está inscrito(a) em ou classificado(a) para alguma Olimpíada de Física?" id="JEstá inscrito(a) em ou classificado(a) para alguma Olimpíada de Física?" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>Seu colégio oferece algum treinamento para Olimpíadas de Física? Se sim, descreva em detalhes*</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Seu colégio oferece algum treinamento para olimpíadas de física? Se sim, descreva em detalhes" id="Seu colégio oferece algum treinamento para olimpíadas de física? Se sim, descreva em detalhes" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5" required></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>Há algum professor(a) no seu colégio que apoia sua participação em Olimpíadas de Física?</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Há algum professor(a) no seu colégio que apoia sua participação em olimpíadas de física?" id="Há algum professor(a) no seu colégio que apoia sua participação em olimpíadas de física?" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          <div class="col-md-12">
+           <h6>Se desejar, fale um pouco mais sobre você</h6>
+          </div>
+          <div class="col-12">
+            <textarea name="Se desejar, fale um pouco mais sobre você" id="Se desejar, fale um pouco mais sobre você" class="form-control mb-4" placeholder="Digite aqui sua mensagem"
+              rows="5"></textarea>
+          </div>
+          
+          <div class="col-12">
+          <br>
+            <button class="btn btn-primary btn-block" type="submit">Enviar</button>
+          </div>
+          <p style="font-size: 12px;"><br>*Campos obrigatórios</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

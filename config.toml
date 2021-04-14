@@ -8,7 +8,7 @@ theme = "my-northendlab-hugo"
 # post pagination
 paginate = "2"
 # post excerpt
-summaryLength = "100"
+summaryLength = "50"
 # disqus short name
 disqusShortname = "academiafaraday" # get your shortname form here : https://disqus.com
 
@@ -40,14 +40,19 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "contact"
-name = "Contato"
+URL = "programa/nivel-1"
+name = "Programa"
+weight = 1
+
+[[menu.main]]
+URL = "inscrever"
+name = "Inscrição"
 weight = 2
 
-# [[menu.main]]
-# URL = "author/john-doe"
-# name = "Quem somos"
-# weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 3
 
 # footer menu
 # [[menu.footer]]
@@ -76,6 +81,7 @@ description = "This is meta description"
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/mvodoegw" # contact form works with : https://formspree.io
+inscrever_form_action = "https://formspree.io/f/xwkapeye"
 # copyright
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
@@ -110,7 +116,7 @@ description = "Estamos convocando alunos e alunas dos oitavo e nono anos do ensi
 [params.cta.button]
 enable = true
 label = "Clique aqui"
-link = "https://gethugothemes.com/shop/"
+link = "/inscrever"
 
 
 ############################## Social Site ##########################
