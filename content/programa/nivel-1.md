@@ -30,4 +30,4 @@ A duração do nosso curso será de 18 semanas, a começar no mês de Julho. Vej
 | Semana 17 | **Exercícios** | -   |
 | Semana 18 | **Exercícios** | -   |
 
-Para se inscrever, preencha o formulário em [Inscrição](/inscrever/)
+Para se inscrever, preencha o formulário em [Inscrição](/inscrever/).
