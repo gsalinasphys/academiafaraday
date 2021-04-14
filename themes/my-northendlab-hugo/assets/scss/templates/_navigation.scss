@@ -1,5 +1,6 @@
 .navigation {
   transition: .3s ease;
+  background: #FFFFFFEE;
   &.fixed-top{
     @include desktop {
       position: sticky !important;

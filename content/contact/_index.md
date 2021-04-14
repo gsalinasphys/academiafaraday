@@ -1,8 +1,8 @@
 ---
-title: "Contact Us"
+title: "Contato"
 draft: false
-description : "this is meta description"
+description : "Fale Conosco"
 image: "images/contact.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+Deixe aqui sua mensagem.

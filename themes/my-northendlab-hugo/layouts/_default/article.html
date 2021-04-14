@@ -10,6 +10,6 @@
   <div class="mb-3 post-meta">
     {{range .Params.Tags }} <a href="{{ `tags/` | relLangURL}}{{ . | urlize | lower }}">#{{ . | title }}</a>,  {{ end }}
   </div>
-  <a href="{{ .Permalink }}" class="btn btn-sm btn-transparent pl-0">read more</a>
+  <a href="{{ .Permalink }}" class="btn btn-sm btn-transparent pl-0">leia mais</a>
   <div style="border: 1px #eee solid; margin:30px 0"></div>
 </article>

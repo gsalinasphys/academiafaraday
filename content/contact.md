@@ -1,9 +1,7 @@
 ---
-title: "Contact Us"
+title: "Contato"
 draft: false
-description : "this is meta description"
+description : "Contato"
 image: "images/contact.svg"
 layout : contact
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.

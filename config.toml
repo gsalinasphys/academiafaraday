@@ -10,7 +10,7 @@ paginate = "2"
 # post excerpt
 summaryLength = "100"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "academiafaraday" # get your shortname form here : https://disqus.com
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -75,7 +75,7 @@ description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/mvodoegw" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
