@@ -30,8 +30,18 @@
 
 /* blog */
 .block {
-  text-align: left;
+  text-align: justify;
   padding: 60px 60px 40px;
+}
+
+.block-title {
+  text-align: center;
+  padding: 60px 0px 20px;
+}
+
+.block-subtitle {
+  text-align: center;
+  padding: 20px 0px 20px;
 }
 
 .author-thumb{
