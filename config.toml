@@ -102,6 +102,10 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
+banner_blog = "images/pattern_blog.svg"
+banner_author = "images/pattern_author.svg"
+banner_progr = "images/pattern_progr.svg"
+banner_inscr= "images/pattern_inscr.svg"
 title = "Prepare-se para a"
 topic = "Olimpíada Brasileira de Física"
 image = "images/banner/illustration.svg"
