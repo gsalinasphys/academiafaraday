@@ -9,15 +9,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48.591091mm"
-   height="42.200726mm"
-   viewBox="0 0 48.591091 42.200724"
+   width="45.108452mm"
+   height="37.789383mm"
+   viewBox="0 0 45.108452 37.789382"
    version="1.1"
    id="svg1439"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="hugo-muscot.svg">
   <defs
-     id="defs1433" />
+     id="defs1433">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="74.981003"
+       x2="437.01901"
+       y1="74.981003"
+       y2="437.01901">
+      <stop
+         offset="0"
+         stop-color="#ff4f75"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#f71e78"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="166.14999"
+       x2="345.85001"
+       y1="256"
+       y2="256">
+      <stop
+         offset="0"
+         stop-color="#587aa1"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#455f80"
+         id="stop9" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0413461"
-     inkscape:cx="25.485015"
-     inkscape:cy="94.843157"
+     inkscape:zoom="2.4323271"
+     inkscape:cx="34.92031"
+     inkscape:cy="17.855308"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,20 +85,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(38.427234,-148.93502)">
+     transform="translate(38.427235,-148.93502)">
     <polygon
        id="polygon162"
-       points="483,523.4 604.7,590.7 599.8,590.7 483,544.3 "
+       points="599.8,590.7 483,544.3 483,523.4 604.7,590.7 "
        style="fill:#e6e7e8"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon164"
-       points="462.6,525.1 603.3,590.7 584.6,590.7 462.6,544.5 "
-       style="fill:#f1f2f2"
+       points="584.6,590.7 462.6,544.5 462.6,525.1 603.3,590.7 "
+       style="fill:#f1f2f2;fill-opacity:1"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon166"
-       points="440.9,527.6 599.8,590.7 584.6,590.7 440.9,547.4 "
+       points="584.6,590.7 440.9,547.4 440.9,527.6 599.8,590.7 "
        style="fill:#e6e7e8"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <rect
@@ -74,15 +107,15 @@
        width="5.0194211"
        y="156.90639"
        x="-18.382723"
-       style="fill:#4b6c8e;stroke-width:0.11055993;fill-opacity:1" />
+       style="fill:#506e93;fill-opacity:1;stroke-width:0.11055993" />
     <polygon
        id="polygon170"
-       points="584.6,849.1 584.6,589.5 403.3,536.2 403.3,795.9 "
-       style="fill:#a3b7fe;fill-opacity:0.94117647"
+       points="403.3,536.2 403.3,795.9 584.6,849.1 584.6,589.5 "
+       style="fill:#85d9ff;fill-opacity:1"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon172"
-       points="421.1,529.9 594.6,590.7 584.6,590.7 421.1,541.4 "
+       points="584.6,590.7 421.1,541.4 421.1,529.9 594.6,590.7 "
        style="fill:#f1f2f2"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <rect
@@ -94,27 +127,27 @@
        style="fill:#cccccc;stroke-width:0.11055993" />
     <polygon
        id="polygon176"
-       points="731.5,523.4 609.8,590.7 614.8,590.7 731.5,544.3 "
+       points="614.8,590.7 731.5,544.3 731.5,523.4 609.8,590.7 "
        style="fill:#e6e7e8"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon178"
-       points="751.9,525.1 611.2,590.7 630,590.7 751.9,544.5 "
+       points="630,590.7 751.9,544.5 751.9,525.1 611.2,590.7 "
        style="fill:#f1f2f2"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon180"
-       points="773.6,527.6 614.8,590.7 630,590.7 773.6,547.4 "
-       style="fill:#e6e7e8"
+       points="630,590.7 773.6,547.4 773.6,527.6 614.8,590.7 "
+       style="fill:#e6e7e8;fill-opacity:1"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon182"
-       points="630,849.1 630,589.5 811.3,536.2 811.3,795.9 "
-       style="fill:#a3b7fe;fill-opacity:0.94117647"
+       points="811.3,536.2 811.3,795.9 630,849.1 630,589.5 "
+       style="fill:#85d9ff;fill-opacity:1"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <polygon
        id="polygon184"
-       points="793.5,529.9 620,590.7 630,590.7 793.5,541.4 "
+       points="630,590.7 793.5,541.4 793.5,529.9 620,590.7 "
        style="fill:#f1f2f2"
        transform="matrix(0.11055993,0,0,0.11055993,-83.016055,91.067951)" />
     <rect

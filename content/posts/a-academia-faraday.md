@@ -2,7 +2,7 @@
 title = "A Academia Faraday"
 image = ""
 author = "Gustavo Salinas"
-date = 2021-04-11T05:00:00Z
+date = 2021-04-16T00:33:00Z
 description = "Introdução ao Programa"
 categories = ["Geral"]
 type = "post"
