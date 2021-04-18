@@ -3,15 +3,15 @@
 <section class="section pb-0">
 <div class = "block-title" style="background-image: url('{{ .Site.Params.banner.banner_author | relURL }}'); background-size:contain;">
 <div class="container">
-  <div class="row">
-    <div class="col-lg-6 mx-auto text-center block-title shadow" style="background-color: #FFFFFFF5;border-radius: 25px;">
-      <img src="{{ .Params.Image | relURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4 author-thumb">
-      <h4>{{ .Title | markdownify }}</h4>
-      <div class="content">
-        {{ .Content }}
-      </div>
-    </div>
-  </div>
+ <div class="row">
+   <div class="col-lg-6 mx-auto text-center block-title shadow" style="background-color: #FFFFFFF5;border-radius: 25px;">
+     <img src="{{ .Params.Image | relURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4 author-thumb">
+     <h4>{{ .Title | markdownify }}</h4>
+     <div class="content">
+       {{ .Content }}
+     </div>
+   </div>
+ </div>
 </div>
 </div>
 </section>
@@ -19,16 +19,16 @@
 <!-- blog -->
 <section class="section">
 <div class="container">
-  <div class="row">
-    <div class="col-lg-12 mx-auto px-0">
-      <div class="bg-white shadow block">
-        {{ $name:= .Title }}
-        {{ range where .Site.RegularPages "Params.author" $name }}
-        {{ .Render "article" }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
+ <div class="row">
+   <div class="col-lg-12 mx-auto px-0">
+     <div class="bg-white shadow block">
+       {{ $name:= .Title }}
+       {{ range where .Site.RegularPages "Params.author" $name }}
+       {{ .Render "article" }}
+       {{ end }}
+     </div>
+   </div>
+ </div>
 </div>
 </section>
 <!-- /blog -->

@@ -10,21 +10,16 @@
 </div>
   <!--<div class="container">-->
     <div class="row">
-      {{ if .Params.Image }}
-      <div class="col-lg-8 mx-auto block shadow mb-5">
-        <img src="{{ .Params.Image_side | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
-      </div>
-      {{ end }}
-      {{ if .Params.Image_side }}
       <div class="col-lg-4 mx-auto block shadow mb-5">
-        <img src="{{ .Params.Image_side | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        {{ if .Params.Image }}
+        <img src="{{ .Params.Image | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        {{ end }}
         <!--{{ if .Params.Image_smaller }}-->
         <!-- <!--margin:auto; display: block;-->-->
         <!--<img src="{{ .Params.Image_smaller | relURL }}" class="img-fluid mb-4" alt="{{ .Title | markdownify }}" style="width:75%;margin:auto; display: block;">-->
         <!--<br>-->
         <!--{{ end }}-->
       </div>
-      {{ end }}
       <div class="col-lg-8 mx-auto block shadow mb-5" style="vertical-align: middle;">
         <div class="content mb-5">
           {{ .Content }}
