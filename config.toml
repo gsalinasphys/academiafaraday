@@ -6,7 +6,7 @@ title = "Academia Faraday"
 # theme
 theme = "my-northendlab-hugo"
 # post pagination
-paginate = "2"
+paginate = "3"
 # post excerpt
 summaryLength = "50"
 # disqus short name
@@ -124,15 +124,11 @@ link = "/inscrever"
 
 
 ############################## Social Site ##########################
-# [[params.social]]
-# icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-# link = "#"
-# [[params.social]]
-# icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-# link = "#"
-# [[params.social]]
-# icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-# link = "#"
-# [[params.social]]
-# icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCO31F-jeAASnKCRHQ6oC8pg"
+
+[[params.social]]
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+link = "https://www.instagram.com/academiafaradaybr/"
+

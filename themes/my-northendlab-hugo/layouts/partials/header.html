@@ -32,6 +32,7 @@
         </li>
         {{ end }}
       {{ end }}
+      
     <!--</ul>-->
     <!--{{ if .Site.Params.search.enable }}-->
     <!--{{ "<!-- search -->" | safeHTML }}-->
@@ -46,6 +47,14 @@
     <!--</div>-->
     <!--{{ end }}-->
   </div>
+
+<!--social media icons-->
+<ul class="list-inline social-icon mb-0" style = "text-align:right;">
+{{ range .Site.Params.social }}
+<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+{{ end }}
+</ul>
+
 </nav>
 </div>
 </header>
