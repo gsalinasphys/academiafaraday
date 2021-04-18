@@ -1,5 +1,5 @@
 +++
 title = "Gustavo Salinas"
-image = "/images/author/mypic.jpg"
+image = "/images/author/gustavo-salinas.jpg"
 description = "Professor"
 +++
