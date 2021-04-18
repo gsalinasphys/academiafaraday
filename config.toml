@@ -10,7 +10,8 @@ paginate = "3"
 # post excerpt
 summaryLength = "50"
 # disqus short name
-disqusShortname = "academiafaraday" # get your shortname form here : https://disqus.com
+# disqusShortname = "academiafaraday" # get your shortname form here : https://disqus.com
+disqusShortname = ""
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
