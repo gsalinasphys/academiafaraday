@@ -5,4 +5,4 @@ description : "Fale Conosco"
 image: "images/contact.svg"
 ---
 
-Deixe aqui sua mensagem.
+Tem alguma dúvida? Quer ajudar no projeto? Mande uma mensagem pra gente!
