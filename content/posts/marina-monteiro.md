@@ -2,7 +2,7 @@
 title = "Quem Somos: Marina Monteiro"
 image_side = "images/author/marina-monteiro.jpg"
 author = "Marina Monteiro"
-date = 2021-05-15
+date = 2021-05-22
 description = "Quem somos"
 categories = ["Quem Somos"]
 type = "post"
