@@ -77,7 +77,7 @@ logo = "images/aflogo.svg"
 icon = "images/favicon.svg"
 # meta data
 author = "Themefisher"
-description = "This is meta description"
+description = "Aulas para Olimpíadas de Física"
 # google tag manager
 google_tag_manager = "G-KHCVCLB13Q" # your id
 # contact form action
