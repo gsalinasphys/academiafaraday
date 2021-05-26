@@ -51,9 +51,14 @@ name = "Inscrição"
 weight = 2
 
 [[menu.main]]
+URL = "categories/quem-somos/"
+name = "Quem Somos"
+weight = 3
+
+[[menu.main]]
 URL = "contact"
 name = "Contato"
-weight = 3
+weight = 4
 
 # footer menu
 # [[menu.footer]]
