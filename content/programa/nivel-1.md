@@ -25,7 +25,7 @@ A duração do nosso curso será de 18 semanas, a começar no mês de Julho. Vej
 | Semana 9 | _Gravitação_ | **Exercícios** | -   |
 | Semana 10 | - | _Trabalho_ | _Funções logarítmicas_ |
 | Semana 11 | - | _Energia_ | **Exercícios** |
-| Semana 12 | _Gravitação_ | **Exercícios** | -   |
+| Semana 12 | _Gravitação, Lua e Marés_ | **Exercícios** | -   |
 | Semana 13 | - | _Temperatura_ | _Cálculo_ |
 | Semana 14 | **Exercícios** | _Trocas de calor_ | -   |
 | Semana 15 | _O Universo_ | **Exercícios** | -   |
