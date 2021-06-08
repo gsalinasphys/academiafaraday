@@ -14,7 +14,10 @@
    width="46.571705"
    version="1.1"
    sodipodi:docname="favicon.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:export-filename="/home/gsalinas/GitHub/academiafaraday/static/images/favicon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <metadata
      id="metadata33">
     <rdf:RDF>
@@ -37,17 +40,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="722"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="-204.51075"
-     inkscape:cy="-174.13788"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="46.183601"
+     inkscape:cy="23.077133"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Capa_1" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1"
+     inkscape:document-rotation="0" />
   <linearGradient
      id="SVGID_1_"
      gradientUnits="userSpaceOnUse"
@@ -81,15 +85,17 @@
        id="stop9" />
   </linearGradient>
   <g
-     id="g874">
+     id="g874"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
     <circle
-       style="fill:#ff4f75;stroke-width:0.09096034"
+       style="fill:#ff4f75;stroke-width:0.0909603"
        cx="23.285847"
        cy="23.285847"
        r="23.285847"
        id="circle2" />
     <path
-       style="fill:#a82059;fill-opacity:1;stroke-width:0.09096034"
+       style="fill:#a82059;fill-opacity:1;stroke-width:0.0909603"
        inkscape:connector-curvature="0"
        d="m 46.571706,23.285848 c 0,-0.991013 -0.0624,-1.967381 -0.18256,-2.92574 -3.82825,-3.828429 -11.3654,-11.3651313 -11.3654,-11.3651313 l -10.99684,4.1075883 -4.09476,-4.0947633 -8.29331,28.6598763 c 0,0 4.83546,4.835907 8.72119,8.721459 0.95845,0.12025 1.93482,0.182558 2.92583,0.182558 12.86043,0 23.28585,-10.42542 23.28585,-23.285847 z"
        id="path4" />
